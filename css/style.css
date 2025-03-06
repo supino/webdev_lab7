@@ -2,12 +2,12 @@ td, th {
 	border: 1px solid;
 }
 #header {
-  position: absolute;
+  position: relative;
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px; 
 }
 #header h1 {
-  position: static;
+  position: relative;
   left: 420px;
   top:5px;
   font-size: 3em;
