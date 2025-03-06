@@ -25,7 +25,7 @@ td, th {
 }
 #content-wrapper {
   bgColor="#6B6B6B" );
-  float: left;
+  float: none;
 }
 #main-content {
   min-height: 300px;
