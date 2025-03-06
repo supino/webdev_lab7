@@ -7,7 +7,7 @@ td, th {
   border-radius: 12px 12px 0px 0px; 
 }
 #header h1 {
-  position: absolute;
+  position: static;
   left: 420px;
   top:5px;
   font-size: 3em;
