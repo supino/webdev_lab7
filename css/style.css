@@ -24,7 +24,7 @@ td, th {
   color: #E35335;
 }
 #content-wrapper {
-  background-image: url("../images/repeating.png");
+  bgColor="#6B6B6B" );
   float: left;
 }
 #main-content {
